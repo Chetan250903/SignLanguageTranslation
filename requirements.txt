@@ -1,7 +1,7 @@
 setuptools
 wheel
 streamlit
-opencv-python-headles
+opencv-python-headless
 numpy
 cvzone
 Pillow
