@@ -1,5 +1,7 @@
-streamlit
-opencv-python
-numpy
-Pillow
-cvzone
+streamlit==1.20.0
+opencv-python==4.7.0.72
+opencv-python-headless==4.7.0.72  # Needed for deployment
+cvzone==1.5.1
+mediapipe==0.10.0
+numpy==1.24.0
+pillow==9.4.0
