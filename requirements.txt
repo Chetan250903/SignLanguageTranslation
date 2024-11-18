@@ -6,3 +6,4 @@ numpy
 cvzone
 Pillow
 tensorflow
+mediapipe
